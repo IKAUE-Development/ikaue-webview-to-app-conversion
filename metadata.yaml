@@ -1,0 +1,5 @@
+homepage: "https://www.ikaue.com/"
+documentation: "https://raw.githubusercontent.com/IKAUE-Development/ikaue-webview-to-app-conversion/main/README.md"
+versions:
+  - sha: b8bdfd7df80478b3db59f8395e269ac0e352b718
+    changeNotes: Initial release.
